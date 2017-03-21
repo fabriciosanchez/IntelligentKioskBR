@@ -1,0 +1,3 @@
+C:\Users\fabsanc\OneDrive - Microsoft\Microsoft\Projetos\Cognitive-Samples-IntelligentKiosk\Kiosk\IntelligentKioskSample.csproj;x86
+C:\Users\fabsanc\OneDrive - Microsoft\Microsoft\Projetos\Cognitive-Samples-IntelligentKiosk\Kiosk\KioskRuntimeComponent\KioskRuntimeComponent.csproj;neutral
+C:\Users\fabsanc\OneDrive - Microsoft\Microsoft\Projetos\Cognitive-Samples-IntelligentKiosk\Kiosk\ServiceHelpers\ServiceHelpers.csproj;neutral

@@ -1,0 +1,17 @@
+C:\Users\fabsanc\OneDrive - Microsoft\Microsoft\Projetos\Cognitive-Samples-IntelligentKiosk\Kiosk\ServiceHelpers\bin\Debug\ServiceHelpers.dll.config
+C:\Users\fabsanc\OneDrive - Microsoft\Microsoft\Projetos\Cognitive-Samples-IntelligentKiosk\Kiosk\ServiceHelpers\bin\Debug\ServiceHelpers.dll
+C:\Users\fabsanc\OneDrive - Microsoft\Microsoft\Projetos\Cognitive-Samples-IntelligentKiosk\Kiosk\ServiceHelpers\bin\Debug\ServiceHelpers.pdb
+C:\Users\fabsanc\OneDrive - Microsoft\Microsoft\Projetos\Cognitive-Samples-IntelligentKiosk\Kiosk\ServiceHelpers\bin\Debug\Microsoft.ProjectOxford.Common.dll
+C:\Users\fabsanc\OneDrive - Microsoft\Microsoft\Projetos\Cognitive-Samples-IntelligentKiosk\Kiosk\ServiceHelpers\bin\Debug\Microsoft.ProjectOxford.Emotion.dll
+C:\Users\fabsanc\OneDrive - Microsoft\Microsoft\Projetos\Cognitive-Samples-IntelligentKiosk\Kiosk\ServiceHelpers\bin\Debug\Microsoft.ProjectOxford.Face.dll
+C:\Users\fabsanc\OneDrive - Microsoft\Microsoft\Projetos\Cognitive-Samples-IntelligentKiosk\Kiosk\ServiceHelpers\bin\Debug\Microsoft.ProjectOxford.Vision.dll
+C:\Users\fabsanc\OneDrive - Microsoft\Microsoft\Projetos\Cognitive-Samples-IntelligentKiosk\Kiosk\ServiceHelpers\bin\Debug\Newtonsoft.Json.dll
+C:\Users\fabsanc\OneDrive - Microsoft\Microsoft\Projetos\Cognitive-Samples-IntelligentKiosk\Kiosk\ServiceHelpers\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\fabsanc\OneDrive - Microsoft\Microsoft\Projetos\Cognitive-Samples-IntelligentKiosk\Kiosk\ServiceHelpers\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\fabsanc\OneDrive - Microsoft\Microsoft\Projetos\Cognitive-Samples-IntelligentKiosk\Kiosk\ServiceHelpers\bin\Debug\Newtonsoft.Json.xml
+C:\Users\fabsanc\OneDrive - Microsoft\Microsoft\Projetos\Cognitive-Samples-IntelligentKiosk\Kiosk\ServiceHelpers\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\fabsanc\OneDrive - Microsoft\Microsoft\Projetos\Cognitive-Samples-IntelligentKiosk\Kiosk\ServiceHelpers\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\fabsanc\OneDrive - Microsoft\Microsoft\Projetos\Cognitive-Samples-IntelligentKiosk\Kiosk\ServiceHelpers\obj\Debug\ServiceHelpers.csproj.App.config
+C:\Users\fabsanc\OneDrive - Microsoft\Microsoft\Projetos\Cognitive-Samples-IntelligentKiosk\Kiosk\ServiceHelpers\obj\Debug\ServiceHelpers.csprojResolveAssemblyReference.cache
+C:\Users\fabsanc\OneDrive - Microsoft\Microsoft\Projetos\Cognitive-Samples-IntelligentKiosk\Kiosk\ServiceHelpers\obj\Debug\ServiceHelpers.dll
+C:\Users\fabsanc\OneDrive - Microsoft\Microsoft\Projetos\Cognitive-Samples-IntelligentKiosk\Kiosk\ServiceHelpers\obj\Debug\ServiceHelpers.pdb
