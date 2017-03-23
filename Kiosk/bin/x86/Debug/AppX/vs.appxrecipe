@@ -10,7 +10,7 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>bdf9127b-7e32-469b-a6ed-f57a0a80ae23</PackageIdentityName>
     <PackageIdentityPublisher>CN=Kiosk</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\fabsanc\OneDrive - Microsoft\Microsoft\Projetos\Cognitive-Samples-IntelligentKiosk\Kiosk\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\fabsanc\OneDrive - Microsoft\Microsoft\Projetos\IntelligentKioskBR\Kiosk\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -25,16 +25,16 @@
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\fabsanc\OneDrive - Microsoft\Microsoft\Projetos\Cognitive-Samples-IntelligentKiosk\Kiosk\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\fabsanc\OneDrive - Microsoft\Microsoft\Projetos\IntelligentKioskBR\Kiosk\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-03-21T13:42:19.188</Modified>
+      <Modified>2017-03-23T19:23:30.530</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\fabsanc\OneDrive - Microsoft\Microsoft\Projetos\Cognitive-Samples-IntelligentKiosk\Kiosk\bin\x86\Debug\IntelligentKioskSample.exe">
+    <AppxPackagedFile Include="C:\Users\fabsanc\OneDrive - Microsoft\Microsoft\Projetos\IntelligentKioskBR\Kiosk\bin\x86\Debug\IntelligentKioskSample.exe">
       <PackagePath>entrypoint\IntelligentKioskSample.exe</PackagePath>
-      <Modified>2017-03-21T13:42:14.717</Modified>
+      <Modified>2017-03-21T19:10:53.729</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\fabsanc\.nuget\packages\Microsoft.CSharp\4.0.0\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -480,107 +480,107 @@
       <PackagePath>WriteableBitmapEx.WinRT.dll</PackagePath>
       <Modified>2015-03-31T19:28:46.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\fabsanc\OneDrive - Microsoft\Microsoft\Projetos\Cognitive-Samples-IntelligentKiosk\Kiosk\ServiceHelpers\bin\Debug\ServiceHelpers.dll">
+    <AppxPackagedFile Include="C:\Users\fabsanc\OneDrive - Microsoft\Microsoft\Projetos\IntelligentKioskBR\Kiosk\ServiceHelpers\bin\Debug\ServiceHelpers.dll">
       <PackagePath>ServiceHelpers.dll</PackagePath>
       <Modified>2017-03-21T12:28:05.735</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\fabsanc\OneDrive - Microsoft\Microsoft\Projetos\Cognitive-Samples-IntelligentKiosk\Kiosk\KioskRuntimeComponent\bin\Debug\KioskRuntimeComponent.winmd">
+    <AppxPackagedFile Include="C:\Users\fabsanc\OneDrive - Microsoft\Microsoft\Projetos\IntelligentKioskBR\Kiosk\KioskRuntimeComponent\bin\Debug\KioskRuntimeComponent.winmd">
       <PackagePath>KioskRuntimeComponent.winmd</PackagePath>
       <Modified>2017-03-14T17:33:38.258</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\fabsanc\OneDrive - Microsoft\Microsoft\Projetos\Cognitive-Samples-IntelligentKiosk\Kiosk\ServiceHelpers\bin\Debug\ServiceHelpers.dll.config">
+    <AppxPackagedFile Include="C:\Users\fabsanc\OneDrive - Microsoft\Microsoft\Projetos\IntelligentKioskBR\Kiosk\ServiceHelpers\bin\Debug\ServiceHelpers.dll.config">
       <PackagePath>ServiceHelpers.dll.config</PackagePath>
       <Modified>2017-03-14T17:32:15.419</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\fabsanc\OneDrive - Microsoft\Microsoft\Projetos\Cognitive-Samples-IntelligentKiosk\Kiosk\Assets\BingNewsAnalytics.png">
+    <AppxPackagedFile Include="C:\Users\fabsanc\OneDrive - Microsoft\Microsoft\Projetos\IntelligentKioskBR\Kiosk\Assets\BingNewsAnalytics.png">
       <PackagePath>Assets\BingNewsAnalytics.png</PackagePath>
       <Modified>2017-03-14T14:20:50.322</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\fabsanc\OneDrive - Microsoft\Microsoft\Projetos\Cognitive-Samples-IntelligentKiosk\Kiosk\Assets\camera.png">
+    <AppxPackagedFile Include="C:\Users\fabsanc\OneDrive - Microsoft\Microsoft\Projetos\IntelligentKioskBR\Kiosk\Assets\camera.png">
       <PackagePath>Assets\camera.png</PackagePath>
       <Modified>2017-03-14T14:20:50.400</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\fabsanc\OneDrive - Microsoft\Microsoft\Projetos\Cognitive-Samples-IntelligentKiosk\Kiosk\Assets\female.png">
+    <AppxPackagedFile Include="C:\Users\fabsanc\OneDrive - Microsoft\Microsoft\Projetos\IntelligentKioskBR\Kiosk\Assets\female.png">
       <PackagePath>Assets\female.png</PackagePath>
       <Modified>2017-03-14T14:20:50.402</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\fabsanc\OneDrive - Microsoft\Microsoft\Projetos\Cognitive-Samples-IntelligentKiosk\Kiosk\Assets\male_blue.png">
+    <AppxPackagedFile Include="C:\Users\fabsanc\OneDrive - Microsoft\Microsoft\Projetos\IntelligentKioskBR\Kiosk\Assets\male_blue.png">
       <PackagePath>Assets\male_blue.png</PackagePath>
       <Modified>2017-03-14T14:20:50.411</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\fabsanc\OneDrive - Microsoft\Microsoft\Projetos\Cognitive-Samples-IntelligentKiosk\Kiosk\Assets\EmotionRecognition.PNG">
+    <AppxPackagedFile Include="C:\Users\fabsanc\OneDrive - Microsoft\Microsoft\Projetos\IntelligentKioskBR\Kiosk\Assets\EmotionRecognition.PNG">
       <PackagePath>Assets\EmotionRecognition.PNG</PackagePath>
       <Modified>2017-03-14T14:20:50.337</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\fabsanc\OneDrive - Microsoft\Microsoft\Projetos\Cognitive-Samples-IntelligentKiosk\Kiosk\Assets\FaceAPI.PNG">
+    <AppxPackagedFile Include="C:\Users\fabsanc\OneDrive - Microsoft\Microsoft\Projetos\IntelligentKioskBR\Kiosk\Assets\FaceAPI.PNG">
       <PackagePath>Assets\FaceAPI.PNG</PackagePath>
       <Modified>2017-03-14T14:20:50.344</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\fabsanc\OneDrive - Microsoft\Microsoft\Projetos\Cognitive-Samples-IntelligentKiosk\Kiosk\Assets\male.png">
+    <AppxPackagedFile Include="C:\Users\fabsanc\OneDrive - Microsoft\Microsoft\Projetos\IntelligentKioskBR\Kiosk\Assets\male.png">
       <PackagePath>Assets\male.png</PackagePath>
       <Modified>2017-03-14T14:20:50.406</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\fabsanc\OneDrive - Microsoft\Microsoft\Projetos\Cognitive-Samples-IntelligentKiosk\Kiosk\Assets\Mall.png">
+    <AppxPackagedFile Include="C:\Users\fabsanc\OneDrive - Microsoft\Microsoft\Projetos\IntelligentKioskBR\Kiosk\Assets\Mall.png">
       <PackagePath>Assets\Mall.png</PackagePath>
       <Modified>2017-03-14T14:20:50.375</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\fabsanc\OneDrive - Microsoft\Microsoft\Projetos\Cognitive-Samples-IntelligentKiosk\Kiosk\Assets\oxford-face.png">
+    <AppxPackagedFile Include="C:\Users\fabsanc\OneDrive - Microsoft\Microsoft\Projetos\IntelligentKioskBR\Kiosk\Assets\oxford-face.png">
       <PackagePath>Assets\oxford-face.png</PackagePath>
       <Modified>2017-03-14T14:20:50.418</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\fabsanc\OneDrive - Microsoft\Microsoft\Projetos\Cognitive-Samples-IntelligentKiosk\Kiosk\Assets\RealTime.PNG">
+    <AppxPackagedFile Include="C:\Users\fabsanc\OneDrive - Microsoft\Microsoft\Projetos\IntelligentKioskBR\Kiosk\Assets\RealTime.PNG">
       <PackagePath>Assets\RealTime.PNG</PackagePath>
       <Modified>2017-03-14T14:20:50.378</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\fabsanc\OneDrive - Microsoft\Microsoft\Projetos\Cognitive-Samples-IntelligentKiosk\Kiosk\Assets\RealTimeFromVideo.PNG">
+    <AppxPackagedFile Include="C:\Users\fabsanc\OneDrive - Microsoft\Microsoft\Projetos\IntelligentKioskBR\Kiosk\Assets\RealTimeFromVideo.PNG">
       <PackagePath>Assets\RealTimeFromVideo.PNG</PackagePath>
       <Modified>2017-03-14T14:20:50.380</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\fabsanc\OneDrive - Microsoft\Microsoft\Projetos\Cognitive-Samples-IntelligentKiosk\Kiosk\Assets\smalltile-sdk.png">
+    <AppxPackagedFile Include="C:\Users\fabsanc\OneDrive - Microsoft\Microsoft\Projetos\IntelligentKioskBR\Kiosk\Assets\smalltile-sdk.png">
       <PackagePath>Assets\smalltile-sdk.png</PackagePath>
       <Modified>2017-03-14T14:20:50.426</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\fabsanc\OneDrive - Microsoft\Microsoft\Projetos\Cognitive-Samples-IntelligentKiosk\Kiosk\Assets\splash-sdk.png">
+    <AppxPackagedFile Include="C:\Users\fabsanc\OneDrive - Microsoft\Microsoft\Projetos\IntelligentKioskBR\Kiosk\Assets\splash-sdk.png">
       <PackagePath>Assets\splash-sdk.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-03-16T17:45:49.975</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\fabsanc\OneDrive - Microsoft\Microsoft\Projetos\Cognitive-Samples-IntelligentKiosk\Kiosk\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\fabsanc\OneDrive - Microsoft\Microsoft\Projetos\IntelligentKioskBR\Kiosk\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-03-14T14:20:50.396</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\fabsanc\OneDrive - Microsoft\Microsoft\Projetos\Cognitive-Samples-IntelligentKiosk\Kiosk\Assets\squaretile-sdk.png">
+    <AppxPackagedFile Include="C:\Users\fabsanc\OneDrive - Microsoft\Microsoft\Projetos\IntelligentKioskBR\Kiosk\Assets\squaretile-sdk.png">
       <PackagePath>Assets\squaretile-sdk.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-03-14T14:20:50.442</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\fabsanc\OneDrive - Microsoft\Microsoft\Projetos\Cognitive-Samples-IntelligentKiosk\Kiosk\Assets\squaretile-sdk-44.png">
+    <AppxPackagedFile Include="C:\Users\fabsanc\OneDrive - Microsoft\Microsoft\Projetos\IntelligentKioskBR\Kiosk\Assets\squaretile-sdk-44.png">
       <PackagePath>Assets\squaretile-sdk-44.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-03-14T14:20:50.435</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\fabsanc\OneDrive - Microsoft\Microsoft\Projetos\Cognitive-Samples-IntelligentKiosk\Kiosk\Assets\StoreLogo.scale-10.png">
+    <AppxPackagedFile Include="C:\Users\fabsanc\OneDrive - Microsoft\Microsoft\Projetos\IntelligentKioskBR\Kiosk\Assets\StoreLogo.scale-10.png">
       <PackagePath>Assets\StoreLogo.scale-10.png</PackagePath>
       <Modified>2017-03-14T14:20:50.398</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\fabsanc\OneDrive - Microsoft\Microsoft\Projetos\Cognitive-Samples-IntelligentKiosk\Kiosk\Assets\GreetingKiosk.JPG">
+    <AppxPackagedFile Include="C:\Users\fabsanc\OneDrive - Microsoft\Microsoft\Projetos\IntelligentKioskBR\Kiosk\Assets\GreetingKiosk.JPG">
       <PackagePath>Assets\GreetingKiosk.JPG</PackagePath>
       <Modified>2017-03-14T14:20:50.351</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\fabsanc\OneDrive - Microsoft\Microsoft\Projetos\Cognitive-Samples-IntelligentKiosk\Kiosk\Assets\RealtimeDriverMonitoring.jpg">
+    <AppxPackagedFile Include="C:\Users\fabsanc\OneDrive - Microsoft\Microsoft\Projetos\IntelligentKioskBR\Kiosk\Assets\RealtimeDriverMonitoring.jpg">
       <PackagePath>Assets\RealtimeDriverMonitoring.jpg</PackagePath>
       <Modified>2017-03-14T14:20:50.393</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\fabsanc\OneDrive - Microsoft\Microsoft\Projetos\Cognitive-Samples-IntelligentKiosk\Kiosk\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\fabsanc\OneDrive - Microsoft\Microsoft\Projetos\IntelligentKioskBR\Kiosk\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
       <Modified>2017-03-14T14:20:51.655</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\fabsanc\OneDrive - Microsoft\Microsoft\Projetos\Cognitive-Samples-IntelligentKiosk\Kiosk\Views\MallKioskDemoConfig\MallKioskDemoSettings.xml">
+    <AppxPackagedFile Include="C:\Users\fabsanc\OneDrive - Microsoft\Microsoft\Projetos\IntelligentKioskBR\Kiosk\Views\MallKioskDemoConfig\MallKioskDemoSettings.xml">
       <PackagePath>Views\MallKioskDemoConfig\MallKioskDemoSettings.xml</PackagePath>
       <Modified>2017-03-14T14:20:52.310</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\fabsanc\OneDrive - Microsoft\Microsoft\Projetos\Cognitive-Samples-IntelligentKiosk\Kiosk\bin\x86\Debug\IntelligentKioskSample.xr.xml">
+    <AppxPackagedFile Include="C:\Users\fabsanc\OneDrive - Microsoft\Microsoft\Projetos\IntelligentKioskBR\Kiosk\bin\x86\Debug\IntelligentKioskSample.xr.xml">
       <PackagePath>IntelligentKioskSample.xr.xml</PackagePath>
       <Modified>2017-03-20T19:50:04.398</Modified>
     </AppxPackagedFile>
@@ -588,14 +588,14 @@
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
       <Modified>2017-03-14T16:15:34.805</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\fabsanc\OneDrive - Microsoft\Microsoft\Projetos\Cognitive-Samples-IntelligentKiosk\Kiosk\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\fabsanc\OneDrive - Microsoft\Microsoft\Projetos\IntelligentKioskBR\Kiosk\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-03-21T13:42:18.495</Modified>
+      <Modified>2017-03-23T19:23:28.117</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\fabsanc\OneDrive - Microsoft\Microsoft\Projetos\Cognitive-Samples-IntelligentKiosk\Kiosk\bin\x86\Debug\Core\IntelligentKioskSample.exe">
+    <AppxPackagedFile Include="C:\Users\fabsanc\OneDrive - Microsoft\Microsoft\Projetos\IntelligentKioskBR\Kiosk\bin\x86\Debug\Core\IntelligentKioskSample.exe">
       <PackagePath>IntelligentKioskSample.exe</PackagePath>
-      <Modified>2017-03-21T13:42:19.169</Modified>
+      <Modified>2017-03-23T19:23:30.521</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

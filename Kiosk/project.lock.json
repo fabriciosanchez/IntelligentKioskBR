@@ -16527,19 +16527,19 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "C:\\Users\\fabsanc\\OneDrive - Microsoft\\Microsoft\\Projetos\\Cognitive-Samples-IntelligentKiosk\\Kiosk\\IntelligentKioskSample.csproj",
+      "projectUniqueName": "C:\\Users\\fabsanc\\OneDrive - Microsoft\\Microsoft\\Projetos\\IntelligentKioskBR\\Kiosk\\IntelligentKioskSample.csproj",
       "projectName": "IntelligentKioskSample",
-      "projectPath": "C:\\Users\\fabsanc\\OneDrive - Microsoft\\Microsoft\\Projetos\\Cognitive-Samples-IntelligentKiosk\\Kiosk\\IntelligentKioskSample.csproj",
-      "projectJsonPath": "C:\\Users\\fabsanc\\OneDrive - Microsoft\\Microsoft\\Projetos\\Cognitive-Samples-IntelligentKiosk\\Kiosk\\project.json",
+      "projectPath": "C:\\Users\\fabsanc\\OneDrive - Microsoft\\Microsoft\\Projetos\\IntelligentKioskBR\\Kiosk\\IntelligentKioskSample.csproj",
+      "projectJsonPath": "C:\\Users\\fabsanc\\OneDrive - Microsoft\\Microsoft\\Projetos\\IntelligentKioskBR\\Kiosk\\project.json",
       "projectStyle": "ProjectJson",
       "frameworks": {
         "uap10.0": {
           "projectReferences": {
-            "C:\\Users\\fabsanc\\OneDrive - Microsoft\\Microsoft\\Projetos\\Cognitive-Samples-IntelligentKiosk\\Kiosk\\KioskRuntimeComponent\\KioskRuntimeComponent.csproj": {
-              "projectPath": "C:\\Users\\fabsanc\\OneDrive - Microsoft\\Microsoft\\Projetos\\Cognitive-Samples-IntelligentKiosk\\Kiosk\\KioskRuntimeComponent\\KioskRuntimeComponent.csproj"
+            "C:\\Users\\fabsanc\\OneDrive - Microsoft\\Microsoft\\Projetos\\IntelligentKioskBR\\Kiosk\\KioskRuntimeComponent\\KioskRuntimeComponent.csproj": {
+              "projectPath": "C:\\Users\\fabsanc\\OneDrive - Microsoft\\Microsoft\\Projetos\\IntelligentKioskBR\\Kiosk\\KioskRuntimeComponent\\KioskRuntimeComponent.csproj"
             },
-            "C:\\Users\\fabsanc\\OneDrive - Microsoft\\Microsoft\\Projetos\\Cognitive-Samples-IntelligentKiosk\\Kiosk\\ServiceHelpers\\ServiceHelpers.csproj": {
-              "projectPath": "C:\\Users\\fabsanc\\OneDrive - Microsoft\\Microsoft\\Projetos\\Cognitive-Samples-IntelligentKiosk\\Kiosk\\ServiceHelpers\\ServiceHelpers.csproj"
+            "C:\\Users\\fabsanc\\OneDrive - Microsoft\\Microsoft\\Projetos\\IntelligentKioskBR\\Kiosk\\ServiceHelpers\\ServiceHelpers.csproj": {
+              "projectPath": "C:\\Users\\fabsanc\\OneDrive - Microsoft\\Microsoft\\Projetos\\IntelligentKioskBR\\Kiosk\\ServiceHelpers\\ServiceHelpers.csproj"
             }
           }
         }

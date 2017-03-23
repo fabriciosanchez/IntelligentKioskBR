@@ -15614,10 +15614,10 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "C:\\Users\\fabsanc\\OneDrive - Microsoft\\Microsoft\\Projetos\\Cognitive-Samples-IntelligentKiosk\\Kiosk\\KioskRuntimeComponent\\KioskRuntimeComponent.csproj",
+      "projectUniqueName": "C:\\Users\\fabsanc\\OneDrive - Microsoft\\Microsoft\\Projetos\\IntelligentKioskBR\\Kiosk\\KioskRuntimeComponent\\KioskRuntimeComponent.csproj",
       "projectName": "KioskRuntimeComponent",
-      "projectPath": "C:\\Users\\fabsanc\\OneDrive - Microsoft\\Microsoft\\Projetos\\Cognitive-Samples-IntelligentKiosk\\Kiosk\\KioskRuntimeComponent\\KioskRuntimeComponent.csproj",
-      "projectJsonPath": "C:\\Users\\fabsanc\\OneDrive - Microsoft\\Microsoft\\Projetos\\Cognitive-Samples-IntelligentKiosk\\Kiosk\\KioskRuntimeComponent\\project.json",
+      "projectPath": "C:\\Users\\fabsanc\\OneDrive - Microsoft\\Microsoft\\Projetos\\IntelligentKioskBR\\Kiosk\\KioskRuntimeComponent\\KioskRuntimeComponent.csproj",
+      "projectJsonPath": "C:\\Users\\fabsanc\\OneDrive - Microsoft\\Microsoft\\Projetos\\IntelligentKioskBR\\Kiosk\\KioskRuntimeComponent\\project.json",
       "projectStyle": "ProjectJson"
     },
     "dependencies": {
